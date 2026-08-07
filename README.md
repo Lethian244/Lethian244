@@ -1,4 +1,4 @@
-- Hi, I’m Kanae, I'm a student at the University of Tuebingen
+- Hi, I’m Kanae, I'm a reseacher at the University of Tuebingen
 - I am currently working on the calculation of Twisted Double Hurwitz numbers as an application in Algebraic Geometry
 
 
