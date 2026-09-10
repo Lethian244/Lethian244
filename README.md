@@ -1,6 +1,6 @@
 - Hi, I’m Kanae, I'm a reseacher at the University of Tuebingen
 - I am currently working on developing models in population genetics using Markov-Chain-Monte-Carlo methods
-- I worked on the calculation of Twisted Double Hurwitz numbers as an application in Algebraic Geometry
+- I also worked on the calculation of Twisted Double Hurwitz numbers as an application in Algebraic Geometry
   
 
 <!---
